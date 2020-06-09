@@ -1,0 +1,20 @@
+0000000001: 2020-05-10 09:50:22:769    Die Datei oder Assembly "file:///C:\Program Files\ATI Technologies\ATI.ACE\Branding\BrandingResources.dll" oder eine Abhängigkeit davon wurde nicht gefunden. Das System kann die angegebene Datei nicht finden.
+ Error      Called by: ATI.ACE.LOG.Foundation.Implementation.Branding::LoadBrandingResourcesFile                        processID:06480 threadID:(CCCThreadNew:Launchpad9) domainName:(CCC.exe                    ) assemblyName:(LOG.Foundation.Implementation, Version=4.5.5711.38007, Culture=neutral, PublicKeyToken=90ba9c70f846762e)
+------------------------------------------------------------------------------------------------------------------------
+
+0000000001: 2020-05-10 09:50:33:886    Die Datei oder Assembly "file:///C:\Program Files\ATI Technologies\ATI.ACE\Branding\BrandingResources.dll" oder eine Abhängigkeit davon wurde nicht gefunden. Das System kann die angegebene Datei nicht finden.
+ Error      Called by: ATI.ACE.LOG.Foundation.Implementation.Branding::LoadBrandingResourcesFile                        processID:11256 threadID:(CCCThreadNew:Launchpad8) domainName:(CCC.exe                    ) assemblyName:(LOG.Foundation.Implementation, Version=4.5.5711.38007, Culture=neutral, PublicKeyToken=90ba9c70f846762e)
+------------------------------------------------------------------------------------------------------------------------
+CPU %	Memory (MB)	pid	Name
+3	76	1976	code main
+0	49	6028	     window (Process Explorer)
+0	87	7904	     gpu-process
+0	27	8728	     utility
+0	130	10280	     window (API-UNLOCK.txt - BABY636 (Workspace) - Visual Studio Code)
+0	3	656	         console-window-host (Windows internal process)
+0	29	7428	         searchService
+0	22	10708	         C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+0	47	12204	         extensionHost
+0	43	1572	             "C:\Users\baby6\AppData\Local\Programs\Microsoft VS Code\Code.exe" "c:\Users\baby6\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\json-language-features\server\dist\jsonServerMain" --node-ipc --clientProcessId=12204
+0	39	10580	     shared-process
+0	11	12236	     electron-crash-reporter
